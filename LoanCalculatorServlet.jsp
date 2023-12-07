@@ -9,11 +9,11 @@
     <label for="loanAmount">Loan Amount:</label>
     <input type="number" id="loanAmount" name="loanAmount" required><br><br>
 
-    <label for="annualInterestRate">Interest Rate:</label>
-    <input type="number" id="annualInterestRate" name="annualInterestRate" required><br><br>
+    <label for="interestRate">Interest Rate:</label>
+    <input type="number" id="interestRate" name="interestRate" required><br><br>
 
-    <label for="numberOfYears">Number of Years:</label>
-    <input type="number" id="numberOfYears" name="numberOfYears" required><br><br>
+    <label for="numYears">Number of Years:</label>
+    <input type="number" id="numYears" name="numYears" required><br><br>
 
     <button type="submit" name="calculate">Compute Loan Payment</button>
   </form>
